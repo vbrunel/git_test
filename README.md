@@ -13,10 +13,7 @@ Running `grunt test` will run the unit tests with karma.
 
 ##Blabla
 
-<<<<<<< HEAD
-
+#Bibi
 
 ##Bobo
-=======
-#Bibi
->>>>>>> Test bibi
+
